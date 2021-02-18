@@ -7,6 +7,16 @@ const Button = () => {
     setNum(num + 1);
     document.getElementById("num").style.color = "green";
   };
+ 
+export default Button;
+  const decNum = () => {​​​​​​​
+    if (num > 0) {​​​​​​​
+      setNum(num - 1);
+    }​​​​​​​ else {​​​​​​​
+      setNum(0);
+    }​​​​​​​
+    document.getElementById("num").style.color = "red";
+  }​​​​​​​;
   return (
     <div className="main_div">
       <div className="center_div">
@@ -23,4 +33,3 @@ const Button = () => {
     </div>
   );
 }​​​​​;
-export default Button;
