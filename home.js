@@ -7,3 +7,11 @@ const Button = () => {
     setNum(num + 1);
     document.getElementById("num").style.color = "green";
   };
+  const decNum = () => {​​​​​​​
+    if (num > 0) {​​​​​​​
+      setNum(num - 1);
+    }​​​​​​​ else {​​​​​​​
+      setNum(0);
+    }​​​​​​​
+    document.getElementById("num").style.color = "red";
+  }​​​​​​​;
