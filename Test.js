@@ -1,1 +1,1 @@
-registeration page
+registeration page is done.
