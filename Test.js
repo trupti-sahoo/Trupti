@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Shivani520000 is testing your file.
+=======
+Dhaval is testing your file.Today is a sunny day - Dhaval
+>>>>>>> e98cbb84d07197f51429416ca03898b0491b3fdd
 =======
 Shivani is testing your file.
 Hello
