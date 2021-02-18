@@ -25,5 +25,9 @@ hi
 =======
 hello
 hell everyone
+<<<<<<< HEAD
 >>>>>>> 673e43f53728a66d5658ae2b51ed0cf216649c61
 akshay
+=======
+sanket
+>>>>>>> d633cad4e3c43b3503364a2b0e55b2cde6150ad2
