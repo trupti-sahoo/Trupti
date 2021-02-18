@@ -1,1 +1,1 @@
-I am testing my file.
+registeration page
